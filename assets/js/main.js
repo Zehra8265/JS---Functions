@@ -39,9 +39,9 @@
 
 
 // Toplama çıxma, toplama, vurma, bölməyə uyğun funksiya yaradirsiz 2 eded ve 1 operator('+','-','*','/') qebul edir. Qebul etdiyi operatora uygun a və b ədədləri üzərində hesablama aparib alinan deyeri qaytarır.
-// var number = Number(prompt("Birinci ededi daxil edin"));
+// var num1 = Number(prompt("Birinci ededi daxil edin"));
 // var oper = prompt("Operatoru daxil edin");
-// var number2 = Number(prompt("Ikinci ededi daxil edin"));
+// var num2 = Number(prompt("Ikinci ededi daxil edin"));
 
 
 
